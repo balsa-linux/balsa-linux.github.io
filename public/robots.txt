@@ -1,0 +1,8 @@
+# "nixos fixes this" but who gonna fix nixos?
+# the mongolian shidfart, of course.
+# why you lookin here?
+# hur hur hur hur freddy fazbear jumpscare to get you scared out of the robots txt
+# another 400 waybars, says Rikka
+
+User-agent: *
+Allow: /
