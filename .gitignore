@@ -10,5 +10,6 @@ yarn-error.log*
 
 .vscode/*
 /dist
+/dist-ssr
 .DS_Store
 .idea/
