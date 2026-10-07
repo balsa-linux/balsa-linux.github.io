@@ -48,6 +48,10 @@ a {
   text-decoration: none;
 }
 
+h1, h2, p {
+  text-wrap: balance;
+}
+
 .nav-logo, .hero-logo, .footer-logo {
   filter: brightness(0) invert(1);
 }
